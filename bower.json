@@ -1,6 +1,9 @@
 {
   "name": "jquery.cookieBar",
-  "main": "jquery.cookieBar.js",
+  "main": [
+    "jquery.cookieBar.js",
+    "cookieBar.css"
+  ],
   "version": "1.0.0",
   "homepage": "https://github.com/chick-chains/jquery.cookieBar",
   "authors": [
